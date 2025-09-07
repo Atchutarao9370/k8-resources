@@ -1,0 +1,3 @@
+[submodule "k8-resources"]
+	path = k8-resources
+	url = https://github.com/Atchutarao9370/k8-resources.git
